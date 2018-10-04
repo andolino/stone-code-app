@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/stone-code-app/precache-manifest.b0e780a82e3ab2bf096772439a544ea3.js"
+  "/stone-code-app/precache-manifest.a2be4c6fa57b74cfa01f3d82fb259758.js"
 );
 
 workbox.clientsClaim();
